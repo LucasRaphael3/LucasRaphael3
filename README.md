@@ -45,7 +45,7 @@
       <div align="center">
         <p>Um assistente financeiro completo com integração a um chatbot no WhatsApp e um dashboard web para visualização de dados e insights.</p>
         <p><strong>Tecnologias:</strong> Python, n8n (automação), SQL, Flask/Django.</p>
-        <a href="[LINK-DO-REPOSITORIO-MONELY]" target="_blank">
+        <a href="[]" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -55,7 +55,7 @@
       <div align="center">
         <p>Ferramenta que processa dados do OpenStreetMap (OSM) para construir um grafo de localizações e calcular a rota mais curta usando algoritmos como Dijkstra e A*.</p>
         <p><strong>Tecnologias:</strong> Python, Pandas, NetworkX, osmnx.</p>
-        <a href="[LINK-DO-REPOSITORIO-OSM]" target="_blank">
+        <a href="[]" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -68,6 +68,6 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-DO-GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-DO-GITHUB]&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[LucasRaphael3]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[LucasRaphael3]&layout=compact&langs_count=7&theme=dracula"/>
 </p>
