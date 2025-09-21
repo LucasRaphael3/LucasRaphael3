@@ -2,15 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=LucasRaphael3&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="LucasRaphael3" />
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ola!+Eu+sou+o+Lucas+Raphael;Desenvolvedor+de+Software;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o&cache_bust=2" alt="Typing SVG" />
-  </a>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Olá!%20Bem-vindo(a)!&desc=Eu%20sou%20o%20Lucas%20Raphael&descAlignY=60&fontAlignY=40&fontSize=45&animation=fadeIn" alt="Header Banner"/>
 
 <p align="center">
   <a href="[www.linkedin.com/in/lucasraphaelsantos]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:[SEU-EMAIL@DOMINIO.COM]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:[lucasraphaelsantos01@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
