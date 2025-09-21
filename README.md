@@ -82,5 +82,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/LucasRaphael3/LucasRaphael3/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/LucasRaphael3/LucasRaphael3/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
