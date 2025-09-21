@@ -14,7 +14,7 @@
 ### 🚀 Sobre Mim
 
 <p align="left">
-  Sou um desenvolvedor de software e estudante de Ciência da Computação na Afya em Maceió, Alagoas. Gosto de resolver problemas, otimizar processos e criar soluções tecnológicas que geram valor, com foco especial em <strong>Python, SQL, Java e automação</strong>.
+  Sou um desenvolvedor de software e graduando de Ciência da Computação na Afya em Maceió, Alagoas. Gosto de resolver problemas, otimizar processos e criar soluções tecnológicas que geram valor, com foco especial em <strong>Python, SQL, Java e automação</strong>.
 </p>
 
 ---
