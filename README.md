@@ -46,18 +46,6 @@
   </p>
 </details>
 
-<details>
-  <summary><strong>🗺️ Analisador de Rotas com OpenStreetMap</strong></summary>
-  <br/>
-  <p>
-    Ferramenta que processa dados do OpenStreetMap (OSM) para construir um grafo de localizações e calcular a rota mais curta utilizando algoritmos como Dijkstra e A*.
-    <br/><br/>
-    <strong>Tecnologias:</strong> Python, Pandas, NetworkX, osmnx.
-    <br/>
-    <a href="[LINK-DO-REPOSITORIO-OSM]" target="_blank"><strong>Ver Repositório →</strong></a>
-  </p>
-</details>
-
 ---
 
 ### 🔥 Minha Atividade no GitHub
