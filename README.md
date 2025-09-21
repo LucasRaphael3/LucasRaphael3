@@ -14,7 +14,7 @@
 ### 🚀 Sobre Mim
 
 <p align="left">
-  Sou um desenvolvedor de software e estudante de Ciência da Computação na Afya em Maceió, Alagoas. Gosto de resolver problemas, otimizar processos e criar soluções tecnológicas que geram valor, com foco especial em <strong>Python, SQL, Java e automação</strong>. Atualmente, estou em busca da minha primeira oportunidade de estágio ou emprego para aplicar minhas habilidades em projetos desafiadores e continuar crescendo profissionalmente.
+  Sou um desenvolvedor de software e estudante de Ciência da Computação na Afya em Maceió, Alagoas. Gosto de resolver problemas, otimizar processos e criar soluções tecnológicas que geram valor, com foco especial em <strong>Python, SQL, Java e automação</strong>.
 </p>
 
 ---
@@ -42,7 +42,7 @@
     <br/><br/>
     <strong>Tecnologias:</strong> Python, n8n (automação), SQL, Flask/Django.
     <br/>
-    <a href="[LINK-DO-REPOSITORIO-MONELY]" target="_blank"><strong>Ver Repositório →</strong></a>
+    <a href="[[LINK-DO-REPOSITORIO-MONELY](https://github.com/LucasRaphael3/Monely)]" target="_blank"><strong>Ver Repositório →</strong></a>
   </p>
 </details>
 
