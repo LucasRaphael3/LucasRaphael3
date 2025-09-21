@@ -3,9 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1!+Eu+sou+o+Lucas+Raphael;Desenvolvedor+de+Software;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o&cache_bust=1" alt="Typing SVG" />
-  </a>
+  <img src="https://typish.vercel.app/api?text=Olá! Eu sou o Lucas Raphael;Desenvolvedor de Software;Estudante de Computação&font=Fira%20Code&size=30&color=58A6FF" alt="Typing SVG" />
 </h1>
 
 <p align="center">
