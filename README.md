@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Olá!%20Bem-vindo(a)!&desc=Eu%20sou%20o%20Lucas%20Raphael&descAlignY=60&fontAlignY=40&fontSize=45&animation=fadeIn" alt="Header Banner"/>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/lucasraphaelsantos]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/lucasraphaelsantos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:lucasraphaelsantos01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
@@ -42,7 +42,7 @@
     <br/><br/>
     <strong>Tecnologias:</strong> Python, n8n (automação), SQL, Flask/Django.
     <br/>
-    <a href="[[LINK-DO-REPOSITORIO-MONELY](https://github.com/LucasRaphael3/Monely)]" target="_blank"><strong>Ver Repositório →</strong></a>
+    <a href="[https://github.com/LucasRaphael3/Monely]" target="_blank"><strong>Ver Repositório →</strong></a>
   </p>
 </details>
 
