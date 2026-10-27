@@ -48,13 +48,3 @@
 
 ---
 
-### 🔥 Minha Atividade no GitHub
-
-<p align="center">
-  <a href="https://github.com/LucasRaphael3">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasRaphael3&theme=dracula&bg_color=0d1117&hide_border=true" />
-  </a>
-</p>
-
----
-
